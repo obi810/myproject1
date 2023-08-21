@@ -3,3 +3,5 @@ football
 volleyball
 hockey
 basketball
+rugby
+tennis

@@ -5,3 +5,4 @@ ginger beer
 sprite
 cocola
 pepsi
+wine
