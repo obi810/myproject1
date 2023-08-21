@@ -3,3 +3,5 @@ fanta
 malt
 ginger beer
 sprite
+cocola
+pepsi
