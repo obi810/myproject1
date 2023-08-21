@@ -3,3 +3,4 @@ fanta
 malt
 ginger beer
 sprite
+wine
