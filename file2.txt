@@ -5,3 +5,4 @@ orange
 pineapple
 guava
 water melon
+mango
