@@ -4,3 +4,5 @@ malt
 ginger beer
 sprite
 wine
+cocola
+pepsi
