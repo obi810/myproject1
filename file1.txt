@@ -7,4 +7,3 @@ rugby
 tennis
 cricket
 baseball
-handball
